@@ -74,7 +74,6 @@ The administrative control of this smart contract is managed by a multi-signatur
 ## 🔗 Official Links
 
 - **Main Website:** [corexcapitalai.com](https://corexcapitalai.com)
-- **Trading Platform:** [trade.corexcapitalai.com](https://trade.corexcapitalai.com)
 - **Twitter:** [@CorexCapitalAI](https://twitter.com/CorexCapitalAI)
 - **Telegram:** [Official Channel](https://t.me/CorexCapitalAI)
 - **Instagram:** [@CorexCapitalAI](https://instagram.com/CorexCapitalAI)
